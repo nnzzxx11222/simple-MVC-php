@@ -1,6 +1,6 @@
 # small-MVC-php
 
-##project contant
+## project contant
 
 > simple MVC project  from PHP
 
