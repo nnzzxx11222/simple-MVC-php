@@ -4,6 +4,6 @@
 
 > simple MVC project  from PHP
 
-  * handling database *
-  * route handling *
-  * controller * 
+  _* handling database _
+  _* route handling _
+  _* controller *_ 
